@@ -1,6 +1,6 @@
 ## **Trivia Game**
 
-In this task, you are going to create a **multiple choice** quiz game with **React** or **React Native** using [Open Trivia Database](https://opentdb.com/)
+In this task, you are going to create a **multiple choice** quiz game with **React**  using [Open Trivia Database](https://opentdb.com/)
 You may use any additional library that you like.
 
 ### Requirements
